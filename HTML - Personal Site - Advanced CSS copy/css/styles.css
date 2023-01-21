@@ -12,34 +12,22 @@ p {
 }
 
 /*div styling*/
-.title {
+.top-container {
   text-align: center;
 }
 
-.title h1{
+.top-container h1{
     margin-top: 0px;
     margin-bottom: 5px;
 }
 
-.title p {
+.top-container p {
   margin-top: 0px;
   margin-bottom: 0px;
 }
 
-.beginning {
-  height: 200px;
-  width: 200px;
-  background-color: blueviolet;
-}
-
-.middle {
-  height: 200px;
-  width: 200px;
-  background-color: blue;
-}
-
-.end {
-  height: 200px;
-  width: 200px;
-  background-color: red;
+.top-container img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
