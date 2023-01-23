@@ -1,26 +1,28 @@
+body {
+    margin-top: 0px;
+    margin-left: 0px;
+}
 .red {
     Background-color: red;
     height: 200px;
     width: 200px;
-    position: relative;
-    display: inline-block;
+    position: absolute;
     left: 400px;
+    top: 400px;
   }
   
   .yellow {
     Background-color: yellow;
     height: 200px;
     width: 200px;
-    position: relative;
-    display: inline-block;
-    right: 200px;
+    margin: none;
   }
   
   .blue {
     Background-color: blue;
     height: 200px;
     width: 200px;
-    position: relative;
-    display: inline-block;
-    right: 200px;
+    position: absolute;
+    left: 200px;
+    top: 200px;
   }
