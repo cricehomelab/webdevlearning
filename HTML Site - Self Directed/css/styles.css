@@ -1,0 +1,41 @@
+body {
+    background-color: #BCCC9A;
+}
+
+.introduction {
+  color: #3C6255;
+  text-align: center;
+}
+
+.introduction p {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+.introduction h2 {
+  font-family: 'Caveat', cursive;
+}
+
+.cloud1 {
+  position: absolute;
+  left: 10%;
+}
+
+.cloud2{
+  position: absolute;
+  left: 75%;
+}
+
+.about {
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+  color: #3C6255;
+  font-family: 'Fira Sans', sans-serif;
+}
+
+.contact {
+  text-align: center;
+  color: #3C6255;
+  font-family: 'Fira Sans', sans-serif;
+}
+
