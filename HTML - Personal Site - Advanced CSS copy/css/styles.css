@@ -41,3 +41,13 @@ a {
   margin-right: 500px;
   position:absolute;
 }
+
+.python-image {
+  height: 50px;
+  width: 50px;
+}
+
+.puppet-image {
+  height: 50px;
+  width: 35px;
+}
