@@ -1,17 +1,31 @@
 /*Full page styling*/
 body {
-  Background-color: #DEF5E5;
+  Background-color: #142d4c;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
 }
 
 h1 {
-  color: #269e73;
+  color: #9fd3c7;
+  margin-top: 0;
+}
+
+h2 {
+  color: #9fd3c7;;
+  margin-top: 0;
+}
+
+h3 {
+  color: #9fd3c7;
   margin-top: 0;
 }
 
 p {
-  color: #269e73;
+  color: #ececec;
+}
+
+a {
+  color: #385170;
 }
 
 /*class styling*/
@@ -25,5 +39,5 @@ p {
 
 .bottom-cloud {
   margin-right: 500px;
-
+  position:absolute;
 }
