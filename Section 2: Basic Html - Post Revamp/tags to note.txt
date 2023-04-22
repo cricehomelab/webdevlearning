@@ -1,4 +1,4 @@
-<a>
+<a> - Anchor Element. Allows you to create hyperlinks.
 <body>
 <br /> - Break tag. used to send a cariage return.
 <button>
@@ -17,7 +17,7 @@
 <hr /> - Horizontal rule. This adds a horizontal line.
 <html>
 <iframe>
-<img>
+<img> - Used to Display images.
 <input>
 <label>
 <li>
